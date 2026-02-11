@@ -1,0 +1,11 @@
+{
+  "name": "cryptoicons",
+  "version": "2.5.38",
+  "description": "Cryptocurrency and token icons in SVG and PNG formats",
+  "license": "GPL-3.0",
+  "files": ["SVG"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsjames/cryptoicons"
+  }
+}
